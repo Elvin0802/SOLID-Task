@@ -1,0 +1,14 @@
+D:\Visual Studio - IDE\C# Codes File\WPF Apps\Task_SOLID\Interface_Segregation_Principle\bin\Debug\net8.0\Interface_Segregation_Principle.exe
+D:\Visual Studio - IDE\C# Codes File\WPF Apps\Task_SOLID\Interface_Segregation_Principle\bin\Debug\net8.0\Interface_Segregation_Principle.deps.json
+D:\Visual Studio - IDE\C# Codes File\WPF Apps\Task_SOLID\Interface_Segregation_Principle\bin\Debug\net8.0\Interface_Segregation_Principle.runtimeconfig.json
+D:\Visual Studio - IDE\C# Codes File\WPF Apps\Task_SOLID\Interface_Segregation_Principle\bin\Debug\net8.0\Interface_Segregation_Principle.dll
+D:\Visual Studio - IDE\C# Codes File\WPF Apps\Task_SOLID\Interface_Segregation_Principle\bin\Debug\net8.0\Interface_Segregation_Principle.pdb
+D:\Visual Studio - IDE\C# Codes File\WPF Apps\Task_SOLID\Interface_Segregation_Principle\obj\Debug\net8.0\Interface_Segregation_Principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio - IDE\C# Codes File\WPF Apps\Task_SOLID\Interface_Segregation_Principle\obj\Debug\net8.0\Interface_Segregation_Principle.AssemblyInfoInputs.cache
+D:\Visual Studio - IDE\C# Codes File\WPF Apps\Task_SOLID\Interface_Segregation_Principle\obj\Debug\net8.0\Interface_Segregation_Principle.AssemblyInfo.cs
+D:\Visual Studio - IDE\C# Codes File\WPF Apps\Task_SOLID\Interface_Segregation_Principle\obj\Debug\net8.0\Interface_Segregation_Principle.csproj.CoreCompileInputs.cache
+D:\Visual Studio - IDE\C# Codes File\WPF Apps\Task_SOLID\Interface_Segregation_Principle\obj\Debug\net8.0\Interface_Segregation_Principle.dll
+D:\Visual Studio - IDE\C# Codes File\WPF Apps\Task_SOLID\Interface_Segregation_Principle\obj\Debug\net8.0\refint\Interface_Segregation_Principle.dll
+D:\Visual Studio - IDE\C# Codes File\WPF Apps\Task_SOLID\Interface_Segregation_Principle\obj\Debug\net8.0\Interface_Segregation_Principle.pdb
+D:\Visual Studio - IDE\C# Codes File\WPF Apps\Task_SOLID\Interface_Segregation_Principle\obj\Debug\net8.0\Interface_Segregation_Principle.genruntimeconfig.cache
+D:\Visual Studio - IDE\C# Codes File\WPF Apps\Task_SOLID\Interface_Segregation_Principle\obj\Debug\net8.0\ref\Interface_Segregation_Principle.dll
